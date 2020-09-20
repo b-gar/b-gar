@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on .
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Julia
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: [mailto](mailto:ben.garski@outlook.com)
