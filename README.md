@@ -5,7 +5,7 @@
 I am a recent MS Information Science and Technology graduate with emphasis in data science. 
 
 - 🌱 I’m currently learning Julia and advancing my skills in Python and Shiny
-- 📫 Contact Information:
+## 📫 Contact Information:
 
 
 <p align='center'>
