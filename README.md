@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Julia
 - 💬 Ask me about .
-- 📫 How to reach me: [Email](mailto:ben.garski@outlook.com), 
+- 📫 How to reach me:
 
 
 <p align='center'>
