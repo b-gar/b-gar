@@ -3,7 +3,7 @@
 
 I am a recent MS Information Science and Technology graduate with emphasis in data science. 
 
-- 🌱 I’m currently learning Julia and advancing my skills in <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=Python" /> and Shiny <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+- 🌱 I’m currently learning Julia and advancing my skills in <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> and Shiny and <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
 
 
