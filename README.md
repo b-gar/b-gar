@@ -7,4 +7,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [Email](mailto:ben.garski@outlook.com), 
 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
+< p align='center'>
+  <a href="https://www.linkedin.com/in/bengarski/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
