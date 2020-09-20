@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Julia
-- 💬 Ask me about .
-- 📫 How to reach me:
+I am a recent MS Information Science and Technology graduate with emphasis in data science. 
+
+- 🌱 I’m currently learning Julia and advancing my skills in Python and Shiny
+- 📫 Contact Information:
 
 
 <p align='center'>
