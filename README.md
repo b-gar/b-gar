@@ -1,10 +1,12 @@
-<img src="https://github.com/blg-uwm/blg-uwm/blob/master/banner.jpeg">
 
 ### Hi there 👋
 
 I am a recent MS Information Science and Technology graduate with emphasis in data science. 
 
 - 🌱 I’m currently learning Julia and advancing my skills in Python and Shiny
+
+<img src="https://github.com/blg-uwm/blg-uwm/blob/master/banner.jpeg">
+
 ## 📫 Contact Information:
 
 
