@@ -1,11 +1,16 @@
 
-### Hi there 👋
+## Hi there 👋
 
 I am a recent MS Information Science and Technology graduate with emphasis in data science. 
 
-- 🌱 I’m currently learning Julia and advancing my skills in Python and Shiny
+- 🌱 I’m currently learning Julia and advancing my skills in <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=Python" /> and Shiny <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+
+
+
 
 <img src="https://github.com/blg-uwm/blg-uwm/blob/master/banner.jpg">
+
+
 
 ## 📫 Contact Information:
 
