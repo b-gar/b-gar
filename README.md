@@ -14,9 +14,9 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 <details>
 <summary><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /></summary>
 <br>
-<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">
-<img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">
-<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">
++ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">
++ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">
++ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">
 </details>
 - <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> &nbsp; & &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">
 
@@ -31,4 +31,8 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
   <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
+## Stats:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blg-uwm" alt="blg-uwm" /> </p>
