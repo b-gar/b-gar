@@ -11,7 +11,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 
 ## 🚀 Skills:
 
-<details open>
+<details>
 <summary><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /></summary>
 <br>
 <img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">
@@ -20,8 +20,8 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 </details>
 - <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> &nbsp; & &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">
 
-## 📫 Contact Information:
 
+## 📫 Contact Information:
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ben-garski/">
