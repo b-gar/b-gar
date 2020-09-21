@@ -3,20 +3,17 @@
 ## Hello 👋
 
 ## 📍 Introduction
-I am a recent MS Information Science and Technology graduate with emphasis in data science. 
+I am a recent MS Information Science and Technology graduate with emphasis in data science. I have experience using Python and R for data science work, including machine learning. Also, I have experience using Shiny, Power BI, and Tableau to create meaningul dashboards.
+
 
 🌱 I’m currently learning/exploring &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/julia-language.svg" width = "48"> &nbsp; & &nbsp; <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-
-
-
 
 
 ## 🚀 Skills:
 
 - <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-- <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
-- <img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">
+- <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> &nbsp; & &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">
+- 
 
 ## 📫 Contact Information:
 
