@@ -16,7 +16,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 
 - <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
 - <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
-- <img src="https://img.shields.io/badge/power%20bi-%F2C811.svg?&style=flat-square&logo=power-bi&logoColor=yellow" />
+- <img src="https://img.shields.io/badge/power%20bi-%F2C811.svg?&style=for-the-badge&logo=power-bi&logoColor=yellow" />
 
 ## 📫 Contact Information:
 
