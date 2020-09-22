@@ -23,8 +23,8 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 <summary><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /></summary>
   
 + <img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">
-+ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/ggplot2.svg" width = "48">
 + <img src="https://github.com/blg-uwm/blg-uwm/blob/master/tidyverse.svg" width = "48">
++ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">
 </details>
 
 
