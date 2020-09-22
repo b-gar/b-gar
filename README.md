@@ -1,7 +1,7 @@
 <img src="https://github.com/blg-uwm/blg-uwm/blob/master/bannername.jpg">
 
 ## Hello 👋
-
+[![Pandas](https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg)](https://pandas.pydata.org/)
 ## 📍 Introduction
 I am a recent MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including machine learning. I have experience using Shiny, Power BI, and Tableau to create meaningul dashboards. Finally, I have worked in the sports and insurance industries.
 
