@@ -33,7 +33,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blg-uwm" alt="blg-uwm" /> </p>
 
-## 📫 Contact Information:
+## 📫 Contact:
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ben-garski/">
