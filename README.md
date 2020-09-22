@@ -17,6 +17,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 + <img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">
 + <img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">
 + <img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">
++ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/jupyter.svg" width = "48">
 </details>
 
 <details>
