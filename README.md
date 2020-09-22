@@ -14,21 +14,21 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 <details>
 <summary><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"></summary>
 
-+ Pandas &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">](https://pandas.pydata.org/) 
-+ Scikit-Learn &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">](https://scikit-learn.org/stable/) 
-+ Numpy &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">](https://numpy.org/) 
-+ Jupyter Notebooks &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/jupyter.svg" width = "48">](https://jupyter.org/) 
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">](https://pandas.pydata.org/) 
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">](https://scikit-learn.org/stable/) 
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">](https://numpy.org/) 
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/jupyter.svg" width = "48">](https://jupyter.org/) 
 </details>
 
 <details>
 <summary><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /></summary>
   
-+ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">
-+ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/tidyverse.svg" width = "48">
-+ <img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) 
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/) 
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/) 
 </details>
 
-
+https://www.tidyverse.org/
 ## 📫 Contact Information:
 
 <p align='center'>
