@@ -28,6 +28,11 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/) 
 </details>
 
+## 📈 Stats:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blg-uwm)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blg-uwm" alt="blg-uwm" /> </p>
+
 ## 📫 Contact Information:
 
 <p align='center'>
@@ -39,7 +44,4 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
   </a>
 </p>
 
-## 📈 Stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blg-uwm)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blg-uwm" alt="blg-uwm" /> </p>
