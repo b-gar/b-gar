@@ -14,10 +14,10 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 <details>
 <summary><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"></summary>
 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">](https://pandas.pydata.org/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">](https://scikit-learn.org/stable/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">](https://numpy.org/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/jupyter.svg" width = "48">](https://jupyter.org/) 
++ Pandas &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">](https://pandas.pydata.org/) 
++ Scikit-Learn &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">](https://scikit-learn.org/stable/) 
++ Numpy &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">](https://numpy.org/) 
++ Jupyter Notebooks &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/jupyter.svg" width = "48">](https://jupyter.org/) 
 </details>
 
 <details>
