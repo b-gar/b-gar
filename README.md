@@ -1,4 +1,4 @@
-<img src="https://github.com/blg-uwm/blg-uwm/blob/master/banner.jpg">
+<img src="https://github.com/blg-uwm/blg-uwm/blob/master/name.jpg">
 
 ## Hello 👋
 
