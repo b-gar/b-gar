@@ -29,8 +29,8 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 </details>
 
 ## Hobbies:
-* <img src="https://github.com/blg-uwm/blg-uwm/blob/master/pi.svg" width = "48">
-* <img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg" width = "48">
+<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pi.svg">
+<img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg">
 
 
 ## 📈 Stats:
