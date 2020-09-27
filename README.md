@@ -16,7 +16,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 
 + [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/) 
 + [<img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white">](https://scikit-learn.org/stable/) 
-+ [<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white">](https://numpy.org/) 
++ [<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/) 
 + [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://jupyter.org/) 
 </details>
 
