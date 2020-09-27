@@ -29,6 +29,8 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/) 
 </details>
 
+[<img src="https://github.com/blg-uwm/blg-uwm/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
+
 ## 🎈 Hobbies:
 <img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg"> &nbsp; <img src="https://img.shields.io/badge/Netflix-%23E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white"> &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/dumbbell.svg" width = "48">
 
