@@ -3,7 +3,7 @@
 ## Hello 👋
 
 ## 📍 Introduction
-I am a recent MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including machine learning. I have experience using Shiny, Power BI, and Tableau to create meaningul dashboards. Finally, I have worked in the sports and insurance industries.
+I am a recent MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including machine learning. I have experience using Shiny, Power BI, and Tableau to create meaningul dashboards. Finally, I have experience in the sports and insurance industries.
 
 
 🌱 I’m currently learning/exploring &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/julia-language.svg" width = "48"> &nbsp; & &nbsp; <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -26,10 +26,11 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
   
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) 
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/) 
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/)
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
 </details>
 
-[<img src="https://github.com/blg-uwm/blg-uwm/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
+
 
 ## 🎈 Hobbies:
 <img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg"> &nbsp; <img src="https://img.shields.io/badge/Netflix-%23E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white"> &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/dumbbell.svg" width = "48">
