@@ -6,7 +6,7 @@
 I am a recent MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including machine learning. I have experience using Shiny, Power BI, and Tableau to create meaningul dashboards. Finally, I have experience in the sports and insurance industries.
 
 
-🌱 I’m currently learning/exploring &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/julia-language.svg" width = "48"> &nbsp; & &nbsp; <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+🌱 I’m currently learning/exploring &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/julia-language.svg" width = "48">](https://julialang.org/) &nbsp; & &nbsp; [<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">](https://www.docker.com/)
 
 
 ## 🚀 Skills:
