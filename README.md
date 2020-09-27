@@ -28,6 +28,11 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/) 
 </details>
 
+## Hobbies:
+* <img src="https://github.com/blg-uwm/blg-uwm/blob/master/pi.svg" width = "48">
+* <img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg" width = "48">
+
+
 ## 📈 Stats:
 [![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=blg-uwm&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
