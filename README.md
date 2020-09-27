@@ -14,10 +14,10 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 <details>
 <summary><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></summary>
 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">](https://pandas.pydata.org/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">](https://scikit-learn.org/stable/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">](https://numpy.org/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/jupyter.svg" width = "48">](https://jupyter.org/) 
++ [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/) 
++ [<img src="https://img.shields.io/badge/scikit-learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white">](https://scikit-learn.org/stable/) 
++ [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://numpy.org/) 
++ [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://jupyter.org/) 
 </details>
 
 <details>
