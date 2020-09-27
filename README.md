@@ -12,7 +12,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 ## 🚀 Skills:
 
 <details>
-<summary><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"></summary>
+<summary><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></summary>
 
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pandas.svg" width = "48">](https://pandas.pydata.org/) 
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">](https://scikit-learn.org/stable/) 
