@@ -29,7 +29,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 </details>
 
 ## 🎈 Hobbies:
-<img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg"> &nbsp; <img src="https://img.shields.io/badge/Netflix-%23E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white"> &nbsp; <i class="fas fa-dumbbell"></i>
+<img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg"> &nbsp; <img src="https://img.shields.io/badge/Netflix-%23E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white"> &nbsp; <img src="https://github.com/blg-uwm/blg-uwm/blob/master/dumbbell.svg">
 
 
 ## 📈 Stats:
