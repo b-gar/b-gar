@@ -33,7 +33,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 
 
 ## 🎈 Hobbies:
-[<img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg">](https://www.xbox.com/en-US/) &nbsp;💎&nbsp; [<img src="https://img.shields.io/badge/Netflix-%23E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white">](https://www.netflix.com/) &nbsp;💎&nbsp; [<img src="https://img.shields.io/badge/DataCamp-%2333AACC.svg?&style=for-the-badge&logo=Datacamp&logoColor=white">](https://www.datacamp.com/)
+[<img src="https://github.com/blg-uwm/blg-uwm/blob/master/xbox.svg">](https://www.xbox.com/en-US/) &nbsp;💎&nbsp; [<img src="https://img.shields.io/badge/Netflix-%23E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white">](https://www.netflix.com/) &nbsp;💎&nbsp; [<img src="https://img.shields.io/badge/DataCamp-%2333AACC.svg?&style=for-the-badge&logo=Datacamp&logoColor=white">](https://www.datacamp.com/) &nbsp;💎&nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/pi.svg">](https://www.raspberrypi.org/)
 
 
 ## 📈 Stats:
