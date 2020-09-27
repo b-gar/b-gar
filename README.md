@@ -24,7 +24,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 <details>
 <summary><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /></summary>
   
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/) &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
++ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/), &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/) 
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/)
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
