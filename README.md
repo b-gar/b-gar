@@ -3,7 +3,7 @@
 ## Hello 👋
 
 ## 📍 Introduction
-I am a recent MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including machine learning. I have experience using Shiny, Power BI, and Tableau to create meaningul dashboards. Finally, I have experience in the sports and insurance industries.
+I am a recent MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including machine learning. I have experience using Shiny, Power BI, and Tableau to create meaningul dashboards.
 
 
 🌱 I’m currently learning/exploring &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/julia-language.svg" width = "48">](https://julialang.org/) &nbsp; & &nbsp; [<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">](https://www.docker.com/)
@@ -15,7 +15,7 @@ I am a recent MS Information Science and Technology graduate with emphasis in da
 <summary><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></summary>
 
 + [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/scikit-learn.svg" width = "48">](https://scikit-learn.org/stable/) 
++ [<img src="https://img.shields.io/badge/scikit%23learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white">](https://scikit-learn.org/stable/) 
 + [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/numpy.svg" width = "48">](https://numpy.org/) 
 + [<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">](https://jupyter.org/) 
 
