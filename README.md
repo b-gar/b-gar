@@ -6,7 +6,7 @@
 I am a MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. Finally, I have published Shiny applications as a personal hobby and for organizations to use.
 
 
-🌱 I’m currently learning/exploring &nbsp; [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/julia-language.svg" width = "48">](https://julialang.org/) &nbsp; & &nbsp; [<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">](https://www.docker.com/)
+🌱 I’m currently learning/exploring &nbsp; [<img src="https://github.com/b-gar/b-gar/blob/master/julia-language.svg" width = "48">](https://julialang.org/) &nbsp; & &nbsp; [<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">](https://www.docker.com/)
 
 
 ## 🚀 Skills:
@@ -24,10 +24,10 @@ I am a MS Information Science and Technology graduate with emphasis in data scie
 <details>
 <summary><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /></summary>
   
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/), &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/) 
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/RStudio.svg" width = "48">](https://rstudio.com/)
-+ [<img src="https://github.com/blg-uwm/blg-uwm/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
++ [<img src="https://github.com/b-gar/b-gar/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/), &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
++ [<img src="https://github.com/b-gar/b-gar/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/) 
++ [<img src="https://github.com/b-gar/b-gar/blob/master/RStudio.svg" width = "48">](https://rstudio.com/)
++ [<img src="https://github.com/b-gar/b-gar/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
 </details>
 
 
@@ -37,9 +37,9 @@ I am a MS Information Science and Technology graduate with emphasis in data scie
 
 
 ## 📈 Stats:
-[![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=blg-uwm&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blg-uwm" alt="blg-uwm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
 
 ## 📫 Contact:
 
