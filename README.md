@@ -1,6 +1,8 @@
-<img src="https://github.com/blg-uwm/blg-uwm/blob/master/name.jpg">
-
 ![gif](https://user-images.githubusercontent.com/48289393/134088780-2e7933d5-27fb-4dfb-b47a-e4a441b3bc1c.gif)
+
+
+![gif2](https://user-images.githubusercontent.com/48289393/134088855-d70cd911-aada-4565-970e-1be1c84659d4.gif)
+
 
 
 ## Hello 👋
