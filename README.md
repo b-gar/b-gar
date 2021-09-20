@@ -1,6 +1,6 @@
 ![gif](https://user-images.githubusercontent.com/48289393/134088780-2e7933d5-27fb-4dfb-b47a-e4a441b3bc1c.gif)
 
-![](https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp)
+![](https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp.gif)
 
 
 ## Hello 👋
