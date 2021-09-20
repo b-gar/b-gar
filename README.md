@@ -1,7 +1,7 @@
 <img src="https://github.com/blg-uwm/blg-uwm/blob/master/name.jpg">
 
 
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/116wwYf3ajIvrG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technology-hd-gifsremastered-116wwYf3ajIvrG">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/116wwYf3ajIvrG" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-hd-gifsremastered-116wwYf3ajIvrG">via GIPHY</a></p>
 
 ## Hello 👋
 
