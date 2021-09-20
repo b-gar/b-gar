@@ -1,6 +1,6 @@
 ![gif](https://user-images.githubusercontent.com/48289393/134088780-2e7933d5-27fb-4dfb-b47a-e4a441b3bc1c.gif)
 
-![] <p align="center">(https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g) </p>
+<p align="center"> ![gif](https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g) </p>
 
 
 ## Hello 👋
