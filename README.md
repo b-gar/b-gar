@@ -1,7 +1,7 @@
 <img src="https://github.com/blg-uwm/blg-uwm/blob/master/name.jpg">
 
+![gif](https://user-images.githubusercontent.com/48289393/134088780-2e7933d5-27fb-4dfb-b47a-e4a441b3bc1c.gif)
 
-<iframe src="https://giphy.com/embed/116wwYf3ajIvrG" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technology-hd-gifsremastered-116wwYf3ajIvrG">via GIPHY</a></p>
 
 ## Hello 👋
 
