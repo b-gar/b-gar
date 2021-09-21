@@ -4,6 +4,7 @@
 
 
 ## Hello 👋
+Ben Garski - MS Information Science and Technology (Data Science Track)
 
 ## 📍 Introduction
 I use Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. I create Shiny applications as a personal hobby and for organizations to use as well.
