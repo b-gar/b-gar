@@ -6,7 +6,7 @@
 ## Hello 👋
 
 ## 📍 Introduction
-I am a MS Information Science and Technology graduate with emphasis in data science. I have experience using Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. Finally, I have published Shiny applications as a personal hobby and for organizations to use.
+I use Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. I have published Shiny applications as a personal hobby and for organizations to use as well.
 
 
 🌱 I’m currently learning/exploring &nbsp; [<img src="https://github.com/b-gar/b-gar/blob/master/julia-language.svg" width = "48">](https://julialang.org/) &nbsp; & &nbsp; [<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">](https://www.docker.com/)
