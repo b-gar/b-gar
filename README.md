@@ -4,19 +4,16 @@
 
 <h2 align="center">
   <em> I clean, organize, and visualize data for fun <em/>
-    <p align='center'>
-  <a href="https://www.linkedin.com/in/ben-garski/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ben.garski@outlook.com">
-  <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/ben-garski/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ben.garski@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
+    </a>
+  </p>  
 </h2>
- 
-
-
-
+  
 <p align="center">
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" height="240" width="240"/>
 </p>
