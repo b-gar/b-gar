@@ -2,7 +2,10 @@
   Hello 👋, I am Ben...<br/>
 </h1>
 
- _I clean, organize, and visualize data for fun_
+<h1 align="center">
+  <em> I clean, organize, and visualize data for fun <em/>
+</h1>
+ 
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ben-garski/">
