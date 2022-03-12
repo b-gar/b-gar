@@ -14,10 +14,13 @@
     </a>
   </p>  
 </h2>
+
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" />
+</p>
   
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues" width="350"></a>
-  <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" />
 </p>
   
 <p align="center">
