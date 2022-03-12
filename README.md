@@ -55,7 +55,7 @@
 </details>
  
  ## 📫 Email:
-<a align="center" href="mailto:ben.garski@outlook.com">
+<a href="mailto:ben.garski@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
 </a>
 
