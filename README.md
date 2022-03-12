@@ -2,13 +2,15 @@
 
 
 ## Hello 👋
-Ben Garski - MS Information Science and Technology (Data Science Track)
+Ben Garski - 
+* MS Information Science and Technology (Data Science Track)
+* BS Kinesiology (Business Administration Minor)
 
 ## 📍 Introduction
 I use Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. I create Shiny applications as a personal hobby and for end users.
 
 
-🌱 I’m currently learning/exploring &nbsp; [<img src="https://github.com/b-gar/b-gar/blob/master/julia-language.svg" width = "48">](https://julialang.org/) &nbsp; & &nbsp; [<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">](https://www.docker.com/)
+🌱 I’m currently learning/exploring &nbsp;
 
 
 ## 🚀 Skills:
