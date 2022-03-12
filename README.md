@@ -1,7 +1,8 @@
 <h1 align="center">
   Hello 👋, I am Ben...<br/>
-  _I clean, organize, and visualize data for fun_
 </h1>
+
+ _I clean, organize, and visualize data for fun_
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ben-garski/">
