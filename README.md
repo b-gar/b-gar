@@ -29,8 +29,8 @@
 
 ## 📚 Education:
 
-* MS Information Science and Technology (Data Science Track)
-* BS Kinesiology (Business Administration Minor)
+- MS Information Science and Technology (Data Science Track)
+- BS Kinesiology (Business Administration Minor)
 
 
 ## 👩‍💻 Skills:
