@@ -15,9 +15,10 @@
   </p>  
 </h2>
   
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
-  
-[![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues" width="350"></a>
+  <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" />
+</p>
   
 <p align="center">
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" height="240" width="240"/>
