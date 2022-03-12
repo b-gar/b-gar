@@ -2,7 +2,7 @@
 
 
 ## Hello 👋
-Ben Garski - 
+I am Ben Garski...
 * MS Information Science and Technology (Data Science Track)
 * BS Kinesiology (Business Administration Minor)
 
