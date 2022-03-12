@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hello 👋 ... I am Ben
+  Hello 👋, I am Ben...
+  I clean, organize, and visualize data for fun
 </h1>
 
 <p align='center'>
@@ -15,15 +16,13 @@
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" height="240" width="240"/>
 </p>
 
-## 📍 Introduction
+## 📚 Education:
 
 * MS Information Science and Technology (Data Science Track)
 * BS Kinesiology (Business Administration Minor)
 
 
-I use Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. I create Shiny applications as a personal hobby and for end users.
-
-## 🚀 Skills:
+## 👩‍💻 Skills:
 
 <details>
 <summary><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></summary>
