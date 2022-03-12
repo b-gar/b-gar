@@ -2,9 +2,9 @@
   Hello 👋, I am Ben...<br/>
 </h1>
 
-<h1 align="center">
+<h2 align="center">
   <em> I clean, organize, and visualize data for fun <em/>
-</h1>
+</h2>
  
 
 <p align='center'>
