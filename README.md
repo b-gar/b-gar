@@ -1,19 +1,27 @@
 <h1 align="center">
   Hello 👋 ... I am Ben
 </h1>
-* MS Information Science and Technology (Data Science Track)
-* BS Kinesiology (Business Administration Minor)
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/ben-garski/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ben.garski@outlook.com">
+  <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
 ## 📍 Introduction
+
+* MS Information Science and Technology (Data Science Track)
+* BS Kinesiology (Business Administration Minor)
+
+
 I use Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. I create Shiny applications as a personal hobby and for end users.
-
-
-🌱 I’m currently learning/exploring &nbsp;
-
 
 ## 🚀 Skills:
 
@@ -45,17 +53,7 @@ I use Python, R, and SQL for data science work, including data manipulation, dat
 ## 📈 Stats:
 [![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
 
-## 📫 Contact:
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/ben-garski/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ben.garski@outlook.com">
-  <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
 
 
