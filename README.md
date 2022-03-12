@@ -7,13 +7,17 @@
   <br><br/>
   <p align='center'>
     <a href="https://www.linkedin.com/in/ben-garski/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://bgars.com/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
   </p>  
 </h2>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
+  
+[![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
   
 <p align="center">
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" height="240" width="240"/>
@@ -45,14 +49,9 @@
 + [<img src="https://github.com/b-gar/b-gar/blob/master/RStudio.svg" width = "48">](https://rstudio.com/)
 + [<img src="https://github.com/b-gar/b-gar/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
 </details>
-
-## 📈 Stats:
-[![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
  
  ## 📫 Email:
-<a href="mailto:ben.garski@outlook.com">
+<a align="center" href="mailto:ben.garski@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
 </a>
 
