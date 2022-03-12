@@ -1,11 +1,12 @@
+<h1 align="center">
+  Hello 👋 ... I am Ben
+</h1>
+* MS Information Science and Technology (Data Science Track)
+* BS Kinesiology (Business Administration Minor)
+
 <p align="center">
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" />
 </p>
-
-## Hello 👋
-I am Ben Garski...
-* MS Information Science and Technology (Data Science Track)
-* BS Kinesiology (Business Administration Minor)
 
 ## 📍 Introduction
 I use Python, R, and SQL for data science work, including data manipulation, data visualization, and machine learning. I create Shiny applications as a personal hobby and for end users.
