@@ -45,7 +45,7 @@ I use Python, R, and SQL for data science work, including data manipulation, dat
 ## 📈 Stats:
 [![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=b-gar" alt="b-gar" /> </p>
 
 ## 📫 Contact:
 
