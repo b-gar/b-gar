@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" height="50%" width="50%"/>
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" height="240" width="240"/>
 </p>
 
 ## 📍 Introduction
