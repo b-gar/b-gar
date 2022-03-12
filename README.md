@@ -46,12 +46,6 @@
 + [<img src="https://github.com/b-gar/b-gar/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
 </details>
 
-
-
-## 🎈 Hobbies:
-[<img src="https://img.shields.io/badge/Xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white">](https://www.xbox.com/en-US/) &nbsp;💎&nbsp; [<img src="https://img.shields.io/badge/Netflix-%23E50914.svg?&style=for-the-badge&logo=Netflix&logoColor=white">](https://www.netflix.com/) &nbsp;💎&nbsp; [<img src="https://img.shields.io/badge/DataCamp-%2333AACC.svg?&style=for-the-badge&logo=Datacamp&logoColor=white">](https://www.datacamp.com/) &nbsp;💎&nbsp; [<img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry-pi&logoColor=whiteg">](https://www.raspberrypi.org/)
-
-
 ## 📈 Stats:
 [![Ben Garski's Stats](https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
