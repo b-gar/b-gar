@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello 👋, I am Ben...<br/>
-  *I clean, organize, and visualize data for fun*
+  _I clean, organize, and visualize data for fun_
 </h1>
 
 <p align='center'>
