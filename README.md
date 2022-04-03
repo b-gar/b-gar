@@ -40,12 +40,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)
 <br></br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/scikit%20learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white">](https://scikit-learn.org/stable/)
 <br></br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/)
 <br></br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">](https://plotly.com/)
 <br></br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">](https://jupyter.org/) 
 
 </details>
@@ -53,10 +57,10 @@
 <details>
 <summary><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /></summary>
   
-+ [<img src="https://github.com/b-gar/b-gar/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/), &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
-+ [<img src="https://github.com/b-gar/b-gar/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/) 
-+ [<img src="https://github.com/b-gar/b-gar/blob/master/RStudio.svg" width = "48">](https://rstudio.com/)
-+ [<img src="https://github.com/b-gar/b-gar/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/), &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/RStudio.svg" width = "48">](https://rstudio.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
 </details>
  
  ## 📫 Email:
