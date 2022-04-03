@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <em> I clean, analyze, and visualize data for fun <em/>
+  <em> I clean, analyze, and visualize data for fun. <em/>
   <br></br>
   <p align='center'>
     <a href="https://www.linkedin.com/in/b-gar/">
@@ -20,7 +20,7 @@
 </p>
   
 <p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-dark&show_icons=true&count_private=true&hide=prs,issues" width="350"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=b-gar&theme=chartreuse-  dark&show_icons=true&count_private=true&hide=prs,issues" width="350"></a>
 </p>
   
 <p align="center">
@@ -57,7 +57,7 @@
 <details>
 <summary><img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /></summary>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/) &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/), &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/shiny.svg" width = "48">](https://shiny.rstudio.com/): &nbsp; [Chicago Crime App](https://bengarski.shinyapps.io/ChicagoCrime/), &nbsp; [Workout Creator App](https://bengarski.shinyapps.io/WorkoutCreator/)
 <br></br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/tidyverse.svg" width = "48">](https://www.tidyverse.org/)
