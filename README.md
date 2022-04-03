@@ -37,7 +37,6 @@
 
 <details>
 <summary><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></summary>
-<br></br>
 
 [<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)
 <br></br>
