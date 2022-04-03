@@ -37,11 +37,16 @@
 
 <details>
 <summary><img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"></summary>
+<br></br>
 
-[<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)<br></br>
-[<img src="https://img.shields.io/badge/scikit%20learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white">](https://scikit-learn.org/stable/)<br></br>
-[<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/)<br></br>
-[<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">](https://plotly.com/)<br></br>
+[<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">](https://pandas.pydata.org/)
+<br></br>
+[<img src="https://img.shields.io/badge/scikit%20learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white">](https://scikit-learn.org/stable/)
+<br></br>
+[<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">](https://numpy.org/)
+<br></br>
+[<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">](https://plotly.com/)
+<br></br>
 [<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">](https://jupyter.org/) 
 
 </details>
