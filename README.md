@@ -12,6 +12,9 @@
     <a href="https://bgars.com/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
+    <a href="mailto:ben.garski@outlook.com">
+      <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
+    </a>
   </p>  
 </h2>
 
@@ -64,10 +67,5 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
 </details>
- 
- ## 📫 Email:
-<a href="mailto:ben.garski@outlook.com">
-  <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
-</a>
 
 
