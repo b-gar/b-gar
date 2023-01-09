@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
     <a href="mailto:ben.garski@outlook.com">
-      <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" width="200" height="100"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" width="200" height="50"/>
     </a>
   </p>  
 </h2>
