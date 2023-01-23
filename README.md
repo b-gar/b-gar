@@ -26,7 +26,7 @@
 
 - MS Information Science and Technology (Data Science Track)
 - BS Kinesiology (Business Administration Minor)
-- ✖️ <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
+- <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
 
 ## 👩‍💻 Skills:
 
