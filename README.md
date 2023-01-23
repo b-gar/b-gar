@@ -45,7 +45,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">](https://plotly.com/)
 <br></br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">](https://jupyter.org/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">](https://jupyter.org/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">](https://flask.palletsprojects.com/)
+<br></br>
 
 </details>
 
