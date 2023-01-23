@@ -64,6 +64,6 @@
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" border-radius: 0 0 10px 10px;/></summary>
+<summary><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></summary>
 </details>
 
