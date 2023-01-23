@@ -63,3 +63,7 @@
 <summary><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></summary>
 </details>
 
+<details>
+<summary><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></summary>
+</details>
+
