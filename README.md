@@ -28,7 +28,7 @@
 - BS Kinesiology (Business Administration Minor)
 
 <p>
-  &nbsp;&nbsp;✖️
+  ✖️
   <br>
   <br>
   <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
