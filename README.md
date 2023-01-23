@@ -62,6 +62,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/b-gar/b-gar/blob/master/plotly.svg" width = "48">](https://plotly.com/) 
 </details>
 
+<details>
 <summary><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></summary>
-
+</details>
 
