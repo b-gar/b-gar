@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <em> I clean, organize, analyze, and visualize data for fun. <em/>
+  <em> I clean and organize data for fun. <em/>
   <br></br>
   <p align='center'>
     <a href="https://www.linkedin.com/in/b-gar/">
