@@ -12,14 +12,15 @@
   <a href="mailto:garskb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <br><br>
-  <p>Checkout my new workout creator app:</p>
-  <img src="https://github.com/b-gar/b-gar/blob/master/swolify.png">
 </h1>
 <p align="center">
   <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47oguewy6aq3gadoa6j4xm98s3ak50qott40qj7r8o&rid=giphy.gif&ct=g" alt="animated" height="240" width="240">
 </p>
-
+<h2 align="center">Checkout my new workout creator app:</h2>
+<p align="center">
+  <img src="https://github.com/b-gar/b-gar/blob/master/swolify.png" height="240" width="240">
+</p>
+  
 ## 📚 Education:
 
 - MS Information Science and Technology
