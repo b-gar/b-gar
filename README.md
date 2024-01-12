@@ -18,7 +18,9 @@
 </p>
 <h2 align="center">Checkout my new workout creator app:</h2>
 <p align="center">
-  <img src="https://github.com/b-gar/b-gar/blob/master/swolify.png" height="240" width="240">
+  <a href="https://swolify.com" target="_blank">
+    <img src="https://github.com/b-gar/b-gar/blob/master/swolify.png" height="200" width="200">
+  </a>
 </p>
   
 ## 📚 Education:
