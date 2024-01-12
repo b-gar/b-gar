@@ -3,13 +3,13 @@
   <br><br>
   I clean, organize, and move data around for fun.
   <br><br>
-  <a href="https://www.linkedin.com/in/b-gar/" target="_blank">
+  <a href="https://www.linkedin.com/in/b-gar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://bgars.com/" target="_blank">
+  <a href="https://bgars.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
-  <a href="mailto:garskb@gmail.com" target="_blank">
+  <a href="mailto:garskb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </h1>
@@ -18,7 +18,7 @@
 </p>
 <h2 align="center">Checkout my new workout creator app:</h2>
 <p align="center">
-  <a href="https://swolify.com" target="_blank">
+  <a href="https://swolify.com">
     <img src="https://github.com/b-gar/b-gar/blob/master/swolify.png" height="200" width="200">
   </a>
 </p>
